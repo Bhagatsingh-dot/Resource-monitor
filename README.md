@@ -1,2 +1,2 @@
-# Resource-monitor.sh
+# Resource-monitor
 More refined version of System-System-Monitoring !
