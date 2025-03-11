@@ -42,7 +42,7 @@ crontab -e
 
 Add the following line to run the script every hour and send a report via email:
 
-0 * * * * /path/to/resource_monitor.sh | mail -s "System Health Report" your-email@example.com
+0 * * * * /path/to/Resource-monitor.sh | mail -s "System Health Report" your-email@example.com
 
 📧 Email Notifications
 
